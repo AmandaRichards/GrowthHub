@@ -1,0 +1,18 @@
+﻿
+<div class="subject-card">
+    <img src=@IconURL />
+    <h3>@Title</h3>
+</div>
+
+@code {
+
+    [Parameter]
+    public string Title { get; set; } = String.Empty;
+
+    [Parameter]
+    public string IconURL { get; set; } = String.Empty;
+
+}
+
+
+

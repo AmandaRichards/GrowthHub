@@ -1,0 +1,23 @@
+﻿body {
+}
+
+.subject-card {
+
+justify-content: center;
+align-content: center;
+align-items: center;
+
+font-size: 10em;
+height: 400px;
+width: 400px;
+//border: solid green 5px;
+}
+
+img {
+    height: 2em;
+}
+
+h3 {
+    align-content: center;
+    align-items: center;
+}

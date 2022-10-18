@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrowthHub", "GrowthHub\GrowthHub.csproj", "{0EA5FC44-A388-47F2-9DD4-ACBE8503EA9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EA5FC44-A388-47F2-9DD4-ACBE8503EA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA5FC44-A388-47F2-9DD4-ACBE8503EA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA5FC44-A388-47F2-9DD4-ACBE8503EA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA5FC44-A388-47F2-9DD4-ACBE8503EA9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD3C83F2-C43B-4A8C-B97D-C7690BA4E064}
+	EndGlobalSection
+EndGlobal
