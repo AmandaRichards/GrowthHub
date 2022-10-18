@@ -8,14 +8,17 @@
 
 <h3>What do you want to learn today?</h3>
 
-<input placeholder="Search" />
+<div>
+    <input placeholder="Search" />
+    <button>Search</button>
+</div>
 
 <Subject Title="UX Design" IconURL="https://cdn-icons-png.flaticon.com/512/2620/2620971.png"></Subject>
 
-@*<ul>
+@*<ul> //div container
     @foreach (var subject in subjects)
         {
-        <li>@subject.Title</li>
+        <li>@subject.Title</li> //subject component
         }
 </ul>*@
 
